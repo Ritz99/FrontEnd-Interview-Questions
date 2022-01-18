@@ -129,7 +129,7 @@ Middleware is the suggested way to extend Redux with custom functionality. Middl
 
 
 20. How many states promise to have after resolution?
--> 
+->  there are no states after resolution.
 
 21. What are Hooks?
 -> Hooks are the new feature introduced in the React 16.8 version. It allows you to use state and other React features without writing a class. Hooks are the functions which "hook into" React state and lifecycle features from function components. It does not work inside classes.
@@ -138,7 +138,7 @@ Hooks are backward-compatible, which means it does not contain any breaking chan
 
 
 22. How to use rest api in React JS
--> 
+-> we can consume REST APIs using two of the most popular methods known as Axios (a promise-based HTTP client) and Fetch API (a browser in-built web API).
 
 23. Tell me a feature that is not available in functional component yet (Note: which is available in class component) 
 ->  
@@ -176,7 +176,7 @@ The setInterval() method, offered on the Window and Worker interfaces, repeatedl
 
 
 29. How to fetch api?
-->
+-> The easiest way to start using an API is by finding an HTTP client online, like REST-Client, Postman, or Paw.
 
 
 30. What is AWS
@@ -186,3 +186,4 @@ AWS is a comprehensive, easy to use computing platform offered Amazon. The platf
 
 
 31. How to run bootstrap ?
+-> Navigate to the root /bootstrap/ directory, then run npm install . npm will look at the package.json file and automatically install the necessary local files and then copy the code in index.js or app.js
